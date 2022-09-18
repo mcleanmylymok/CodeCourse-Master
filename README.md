@@ -25,4 +25,4 @@
 
 As far as the website design. I’m looking for pleasant aesthetics, good contrast, typography and colour use on the website. If it is not up to standard and I feel either your code or the website design needs improvement, I will actually hand it back to you and give you feedback on what needs improvement and you can fix it, hand it back in and I will re-evaluate it. 
 
-**Getting in touch;** If you ever need to reach out to ask a question or you need help with your code, you can always email me. My email address is written at the top of the outline. Also, there is a support branch on the github repository, you can open a pull request and contact me through that. 
+**Getting in touch;** If you ever need to reach out to ask a question or you need help with your code, you can always email me. My email address is written at the top of the outline. Also, you can open an issue on the github repository and contact me through that. 
